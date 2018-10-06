@@ -1,0 +1,49 @@
+{
+    "boilerplate.components.Footer.author.message": "{author} द्वारा प्यार के साथ बनाया गया।",
+    "boilerplate.components.Footer.license.message":
+      "इस परियोजना को एमआईटी लाइसेंस के तहत लाइसेंस प्राप्त है।",
+    "boilerplate.components.Header.features": "विशेषताएं",
+    "boilerplate.components.Header.home": "Home",
+    "boilerplate.containers.FeaturePage.css.header": "विशेषताएं",
+    "boilerplate.containers.FeaturePage.css.message": "अगली पीढ़ी CSS",
+    "boilerplate.containers.FeaturePage.feedback.header": "तत्काल प्रतिक्रिया",
+    "boilerplate.containers.FeaturePage.feedback.message":
+      "सबसे अच्छा DX का आनंद लें और विचार की गति पर अपने ऐप को कोड करें!  \n आपके CSS और JS में सहेजे गए परिवर्तन पृष्ठ को रीफ्रेश किए बिना \n  तुरंत परिलक्षित होते हैं। \n आप अंतर्निहित कोड में कुछ अपडेट करते समय भी एप्लिकेशन स्थिति को सुरक्षित रखें!",
+    "boilerplate.containers.FeaturePage.header": "विशेषताएं",
+    "boilerplate.containers.FeaturePage.internationalization.header":
+      "पूर्ण i18n मानक अंतर्राष्ट्रीयकरण और बहुवचनीकरण",
+    "boilerplate.containers.FeaturePage.internationalization.message":
+      "स्केलेबल ऐप्स को कई भाषाओं का समर्थन करने की आवश्यकता है, आसानी से 'React-intl` के साथ कई भाषाओं को जोड़ और समर्थन करें।",
+    "boilerplate.containers.FeaturePage.javascript.header":
+      "Next generation JavaScript",
+    "boilerplate.containers.FeaturePage.javascript.message":
+      "आज टेम्पलेट स्ट्रिंग्स, ऑब्जेक्ट डिस्ट्रक्चरिंग, एरो फ़ंक्शंस, JSX \n  सिंटैक्स और अधिक का उपयोग करें।",
+    "boilerplate.containers.FeaturePage.network.header": "ऑफलाइन-पहले",
+    "boilerplate.containers.FeaturePage.network.message":
+      "निष्पादक वेब ऐप्स में अगली सीमा: आपके उपयोगकर्ताओं द्वारा ऐप लोड करने के तुरंत बाद \n    नेटवर्क कनेक्शन के बिना उपलब्धता।",
+    "boilerplate.containers.FeaturePage.routing.header":
+      "Industry-standard routing",
+    "boilerplate.containers.FeaturePage.routing.message":
+      "Composable CSS लिखें जो \n   पूर्ण मॉड्यूलरिटी के लिए आपके घटकों के साथ सह-स्थित है। शैली के संघर्ष को समाप्त करते समय अद्वितीय जेनरेट किए गए क्लास नाम \n   विशिष्टता को कम रखते हैं। सर्वोत्तम प्रदर्शन के लिए पृष्ठ पर मौजूद \n   शैलियों को शिप करें।",
+    "boilerplate.containers.FeaturePage.scaffolding.header": "त्वरित मचान",
+    "boilerplate.containers.FeaturePage.scaffolding.message":
+      "Components, Containors, Routes, Selectors \n  और sagas के निर्माण को स्वचालित करें - और उनके परीक्षण - सीधे CLI से!",
+    "boilerplate.containers.FeaturePage.state_management.header":
+      "अनुमानित State प्रबंधन",
+    "boilerplate.containers.FeaturePage.state_management.message":
+      "यूनिडायरेक्शनल डेटा प्रवाह परिवर्तन लॉगिंग और समय यात्रा \n  डीबगिंग के लिए अनुमति देता है।",
+    "boilerplate.containers.HomePage.start_project.header":
+      "सेकंड में अपनी अगली प्रतिक्रिया परियोजना शुरू करें",
+    "boilerplate.containers.HomePage.start_project.message":
+      "एक उच्च स्केलेबल, ऑफलाइन-पहली नींव सर्वश्रेष्ठ DX और प्रदर्शन और सर्वोत्तम प्रथाओं पर केंद्रित है",
+    "boilerplate.containers.HomePage.tryme.atPrefix": "@",
+    "boilerplate.containers.HomePage.tryme.header": "मुझे आजमाओ!",
+    "boilerplate.containers.HomePage.tryme.message":
+      "द्वारा Github रिपोजिटरीज दिखाएं",
+    "boilerplate.containers.LocaleToggle.de": "de",
+    "boilerplate.containers.LocaleToggle.en": "en",
+    "boilerplate.containers.LocaleToggle.hi": "hi",
+    "boilerplate.containers.LocaleToggle.ar": "ar",
+    "boilerplate.containers.NotFoundPage.header": "पृष्ठ नहीं मिला."
+  }
+  

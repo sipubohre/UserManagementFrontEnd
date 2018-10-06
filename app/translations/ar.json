@@ -1,0 +1,49 @@
+{
+    "boilerplate.components.Footer.author.message": "{author} مصنوعة من الحب من قبل ",
+    "boilerplate.components.Footer.license.message":
+      "هذا المشروع مرخص بموجب ترخيص معهد ماساتشوستس للتكنولوجيا.",
+    "boilerplate.components.Header.features": "الميزات",
+    "boilerplate.components.Header.home": "الصفحة الرئيسية",
+    "boilerplate.containers.FeaturePage.css.header": "الميزات",
+    "boilerplate.containers.FeaturePage.css.message": "الجيل القادم CSS",
+    "boilerplate.containers.FeaturePage.feedback.header": "ردود الفعل الفورية",
+    "boilerplate.containers.FeaturePage.feedback.message":
+      "استمتع بأفضل DX ورمز التطبيق الخاص بك بسرعة التفكير! يتم عرض \n التغييرات المحفوظة في CSS و JS فورًا \n دون تحديث الصفحة. الحفاظ على حالة التطبيق حتى عندما \n قمت بتحديث شيء في الكود الأساسي!",
+    "boilerplate.containers.FeaturePage.header": "الميزات",
+    "boilerplate.containers.FeaturePage.internationalization.header":
+      "استكمال i18n ستاندرد الدولية والتعددية",
+    "boilerplate.containers.FeaturePage.internationalization.message":
+      "تحتاج التطبيقات القابلة للتطوير إلى دعم لغات متعددة ، بسهولة إضافة ودعم لغات متعددة باستخدام `react-intl`.",
+    "boilerplate.containers.FeaturePage.javascript.header":
+      "الجيل التالي من جافا سكريبت",
+    "boilerplate.containers.FeaturePage.javascript.message":
+      "استخدم سلاسل القوالب ، ودمار الكائن ، ووظائف الأسهم ، وبناء JSX \n وأكثر من ذلك اليوم.",
+    "boilerplate.containers.FeaturePage.network.header": "حاليا، لأول مرة",
+    "boilerplate.containers.FeaturePage.network.message":
+      "الحد التالي في تطبيقات الويب لأداء المتقدمين: التوفر بدون \n اتصال الشبكة من لحظة تحميل المستخدمين للتطبيق.",
+    "boilerplate.containers.FeaturePage.routing.header":
+      "التوجيه القياسي للصناعة",
+    "boilerplate.containers.FeaturePage.routing.message":
+      "اكتب CSS القابل للتكوين الذي يتشارك مع المكونات الخاصة بك من أجل \n النمطية الكاملة. تبقي أسماء الفئات المولدة الفريدة خصوصية \n منخفضة مع التخلص من الاشتباكات النمطية. لا ترسل سوى \n الأنماط الموجودة على الصفحة للحصول على أفضل أداء.",
+    "boilerplate.containers.FeaturePage.scaffolding.header": "سقالات سريعة",
+    "boilerplate.containers.FeaturePage.scaffolding.message":
+      "أتمتة إنشاء المكونات والحاويات والمسارات ومحددات \n و sagas - واختباراتهم - مباشرة من CLI!",
+    "boilerplate.containers.FeaturePage.state_management.header":
+      "إدارة حالة يمكن التنبؤ بها",
+    "boilerplate.containers.FeaturePage.state_management.message":
+      "يسمح تدفق البيانات أحادي الاتجاه بتغيير التسجيل وتغيير وقت السفر.",
+    "boilerplate.containers.HomePage.start_project.header":
+      "ابدأ مشروعك التفاعلي التالي في ثوانٍ",
+    "boilerplate.containers.HomePage.start_project.message":
+      "مؤسسة عالية المستوى وقابلة للتشغيل بدون اتصال بالإنترنت مع أفضل DX والتركيز على الأداء وأفضل الممارسات",
+    "boilerplate.containers.HomePage.tryme.atPrefix": "@",
+    "boilerplate.containers.HomePage.tryme.header": "جربني!",
+    "boilerplate.containers.HomePage.tryme.message":
+      "عرض مستودعات جيثب بواسطة",
+    "boilerplate.containers.LocaleToggle.de": "de",
+    "boilerplate.containers.LocaleToggle.en": "en",
+    "boilerplate.containers.LocaleToggle.hi": "hi",
+    "boilerplate.containers.LocaleToggle.ar": "ar",
+    "boilerplate.containers.NotFoundPage.header": "الصفحة غير موجودة."
+  }
+  

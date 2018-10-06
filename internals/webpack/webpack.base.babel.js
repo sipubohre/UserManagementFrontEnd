@@ -113,9 +113,6 @@ module.exports = options => ({
       },
     ],
   },
-  externals: {
-    config: JSON.stringify({api_url: "http://192.168.43.139:3001"}), //eslint-disable-line
-  },
   plugins: options.plugins.concat([
     new webpack.ProvidePlugin({
       // make fetch available
