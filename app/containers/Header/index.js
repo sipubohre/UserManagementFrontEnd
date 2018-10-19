@@ -110,7 +110,7 @@ export class Header extends React.Component {
                     </div>
                 </div>
                 <div className="col-lg-1 hidden-md col-sm-6 hidden-xs pull-right">
-                    <a href="#" className="btn btn-outline head-btn">Login</a>
+                    <a href="#" className="btn btn-outline head-btn"><Link to="/login">Login</Link></a>
                 </div>
                 <div className="col-lg-3 hidden-md col-sm-6 hidden-xs pull-right">
                     <a href="#" className="btn btn-outline head-btn">Request A Consultation</a>

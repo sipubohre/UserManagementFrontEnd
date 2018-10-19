@@ -30,7 +30,6 @@
           new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true, autoDisplay: true }, 'google_translate_element');
             $('.goog-te-menu-value').on('DOMSubtreeModified', 'span', function(){
                   language = $(".goog-te-menu-value span").html();
-
                     if (language == "Arabic"){
                         $('#app').css('direction', 'rtl');
                     }

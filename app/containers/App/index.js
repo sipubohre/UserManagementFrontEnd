@@ -12,7 +12,7 @@ import HomePage from 'containers/HomePage/Loadable';
 import NotFoundPage from 'containers/NotFoundPage/Loadable';
 import TemplateFeature from '../TemplateFeature/Loadable'
 import ContactUs from '../ContactUs/Loadable'
-
+import Login from '../Login/Loadable'
 
 export default function App() {
     return (
@@ -22,6 +22,7 @@ export default function App() {
           <Route exact path="/" component={HomePage} />
           <Route exact path="/templateFeature" component={TemplateFeature} />
           <Route exact path="/contactUs" component={ContactUs} />
+          <Route exact path='/login' component={Login} />
           <Route component={NotFoundPage} />
         </Switch>
         <Footer />
