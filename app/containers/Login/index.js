@@ -28,31 +28,24 @@ export class Login extends React.Component {
           <title>Login</title>
           <meta name="description" content="Description of Login" />
         </Helmet>
-        <h2>Login Form</h2>
-        <form>
-            {/* <div className="imgcontainer">
-              <img src={require('../../assets/images/img_avatar2.png')}  alt="Avatar" className="avatar"/>
-            </div> */}
+          <div className="login-container">
+            <h2>Login Form</h2>
+            <form>
+              <label htmlFor="uname"><b>Username</b></label>
+              <input type="text" placeholder="Enter Username" name="uname" required/>
 
-          <div className="container">
-            <label htmlFor="uname"><b>Username</b></label>
-            <input type="text" placeholder="Enter Username" name="uname" required/>
-
-            <label htmlFor="psw"><b>Password</b></label>
-            <input type="password" placeholder="Enter Password" name="psw" required/>
-                
-            <button type="submit">Login</button>
-           
+              <label htmlFor="psw"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" required/>
+                  
+              <button type="submit">Login</button>
+              <div>
+                <label>
+                    <input type="checkbox" defaultChecked="checked" name="remember"/> Remember me
+                </label>
+                <span className="psw">Forgot <a href="#">password?</a></span>
+              </div>
+            </form>
           </div>
-
-          <div className="container" style={{"background-color":"#f1f1f1"}}>
-          <label>
-                <input type="checkbox" checked="checked" name="remember"/> Remember me
-            </label>
-            <span className="psw">Forgot <a href="#">password?</a></span>
-          </div>
-        </form>
-
       </div>
     );
   }

@@ -23,6 +23,7 @@ import './assets/css/owl.carousel.css';
 import './assets/css/owl.theme.default.css';
 import './assets/css/fontello.css';
 import './assets/css/font-awesome.min.css';
+import './assets/css/main.css';
 
 // Import root app
 import App from 'containers/App';

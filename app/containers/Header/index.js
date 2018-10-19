@@ -47,7 +47,7 @@ export class Header extends React.Component {
                         </ul>
                     </div>
                     <div className="col-lg-4 col-md-5 col-sm-6 col-xs-12">
-                        <div id="google_translate_element"></div>
+                        <div id = "google_translate_element"></div>
                         {/* <div className="dropdown">
                             <button className="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Change Locale
@@ -110,7 +110,7 @@ export class Header extends React.Component {
                     </div>
                 </div>
                 <div className="col-lg-1 hidden-md col-sm-6 hidden-xs pull-right">
-                    <a href="#" className="btn btn-outline head-btn"><Link to="/login">Login</Link></a>
+                    <Link to="/login" className="btn btn-outline head-btn">Login</Link>
                 </div>
                 <div className="col-lg-3 hidden-md col-sm-6 hidden-xs pull-right">
                     <a href="#" className="btn btn-outline head-btn">Request A Consultation</a>
