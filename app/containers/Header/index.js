@@ -28,7 +28,7 @@ export class Header extends React.Component {
         <div className="top-header">
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-8 col-md-7 col-sm-6 col-xs-12">
+                    <div className="col-lg-4 col-md-7 col-sm-6 col-xs-12">
                         <ul>
                             <li>+ 180-123-4567 / 8910</li>
                             <li>|</li>
@@ -46,6 +46,18 @@ export class Header extends React.Component {
                             <li><a href="#">Client Reviews</a></li>
                         </ul>
                     </div>
+                    <div className="col-lg-4 col-md-5 col-sm-6 col-xs-12">
+                        <div id="google_translate_element"></div>
+                        {/* <div className="dropdown">
+                            <button className="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Change Locale
+                            </button>
+                            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a className="dropdown-item" href="#">English</a>
+                                <a className="dropdown-item" href="#">Arabian</a>
+                            </div>
+                        </div> */}
+                    </div>
                 </div>
             </div>
         </div>
@@ -60,7 +72,7 @@ export class Header extends React.Component {
                           <Link to="/"><img src={headerImage} alt="" /></Link>
                       </div>
                   </div>
-                  <div className="col-lg-7 col-md-8 col-sm-12 col-xs-12">
+                  <div className="col-lg-6 col-md-8 col-sm-12 col-xs-12">
                     <div className="navigation">
                         <div id="navigation">
                             <ul>
@@ -96,6 +108,9 @@ export class Header extends React.Component {
                             </ul>
                         </div>
                     </div>
+                </div>
+                <div className="col-lg-1 hidden-md col-sm-6 hidden-xs pull-right">
+                    <a href="#" className="btn btn-outline head-btn">Login</a>
                 </div>
                 <div className="col-lg-3 hidden-md col-sm-6 hidden-xs pull-right">
                     <a href="#" className="btn btn-outline head-btn">Request A Consultation</a>

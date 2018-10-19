@@ -842,3 +842,10 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     margin-bottom: 20px;
 }
 }
+
+.dropdown-item {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}
